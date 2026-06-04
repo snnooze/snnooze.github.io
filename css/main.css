@@ -1,0 +1,150 @@
+html
+{
+  margin : 0px;
+  padding : 0px;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 2.5em;
+  margin: 0px;
+  padding : 0px;
+  display : flex;
+  flex-direction : column;
+  background-color : #252525;
+}
+
+h2
+{
+  width : 100%;
+}
+
+.contenu
+{
+  max-width : 1024px;
+  margin-right : auto;
+  margin-left : auto;
+}
+
+header {
+  margin : 0px 0px 80px 0px;
+  padding : 0px;
+  background-color : #252525;
+  width : 100%;
+  max-width : 1024px;
+  display : flex;
+  flex-direction : column;
+}
+
+header h1{
+  color : #f1f1f1;
+  margin : 0px;
+  padding : 0px;
+}
+
+header ul{
+  padding : 0px;
+  margin : 0px;
+  display : block;
+  width : 100%;
+}
+
+header ul a{
+  color : #f1f1f1;
+  text-decoration : none;
+  margin-right : 1em;
+  margin-left : 1em;
+}
+
+header ul li{
+  list-style-type : none;
+  float : left;
+}
+
+.cleaner{
+  display : block;
+  width : 100%;
+  clear : both;
+}
+
+footer {
+  margin-top: 80px;
+  color : #f1f1f1;
+  background-color : #252525;
+  min-height : 120px;
+  text-align : center;
+  width : 100%;
+  max-width : 1024px;
+}
+
+main{
+  margin : 1.5em;
+  display : flex;
+  flex-direction : row;
+  flex-wrap : wrap;
+  width : 1024px;
+  background-color : #252525;
+  color : #f2f2f2;
+}
+
+.pagehead{
+}
+
+.artblock{
+  display : flex;
+  flex-direction : column;
+  width : 40%;
+  margin : 3%;
+}
+
+.artblock p{
+  text-align : justify;
+}
+
+a {
+  color: #ff5733;
+  text-decoration: none;
+}
+
+time{
+  width : 100%;
+}
+
+.liste{
+  list-style-type : none;
+  padding : 0px;
+  margin : 0px;
+}
+
+.liste li{
+ float : left;
+}
+
+.liste li a{
+  color : #36d731;
+}
+
+.blink {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+.highlight
+{
+  width : 100%;
+border-style : solid;
+border-color : #f2f2f2;
+border-width : 1px;
+clear : both;
+padding : 1em;
+}
+
+code
+{
+ line-height : 1.5em;
+}
