@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vie Du Site on Crafty Code</title>
+    <link>https://craftycode.fr/tags/vie-du-site/</link>
+    <description>Recent content in Vie Du Site on Crafty Code</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 02 May 2025 04:57:34 +0200</lastBuildDate>
+    <atom:link href="https://craftycode.fr/tags/vie-du-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://craftycode.fr/posts/hello-world/</link>
+      <pubDate>Fri, 02 May 2025 04:57:34 +0200</pubDate>
+      <guid>https://craftycode.fr/posts/hello-world/</guid>
+      <description>&lt;p&gt;Bienvenue.&#xA;Sur ce petit blog je posterais des billets liés à l&amp;rsquo;une de mes passions qui est l&amp;rsquo;informatique et tout particulièrement la programmation.&lt;/p&gt;&#xA;&lt;p&gt;Cela fait déjà presque 30 ans que j&amp;rsquo;ai découvert cet univers et que j&amp;rsquo;y ai pataugé au départ en tant que hobby puis professionnellement et maintenant de nouveau sous forme de hobby.&lt;/p&gt;&#xA;&lt;p&gt;Les billets que e compte poster n&amp;rsquo;auront pas pour but de parler de l&amp;rsquo;actualité du dev mais plutot de me servir de bloc note, voir de devlog de certains projets mais rien de plus.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

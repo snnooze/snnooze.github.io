@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ligne De Commande on Crafty Code</title>
+    <link>https://craftycode.fr/tags/ligne-de-commande/</link>
+    <description>Recent content in Ligne De Commande on Crafty Code</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 07 May 2025 03:11:41 +0200</lastBuildDate>
+    <atom:link href="https://craftycode.fr/tags/ligne-de-commande/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commandes linux et partitions disques</title>
+      <link>https://craftycode.fr/posts/commandes-linux-et-partitions-disques/</link>
+      <pubDate>Wed, 07 May 2025 03:11:41 +0200</pubDate>
+      <guid>https://craftycode.fr/posts/commandes-linux-et-partitions-disques/</guid>
+      <description>&lt;h2 id=&#34;lhistoire&#34;&gt;L&amp;rsquo;histoire&lt;/h2&gt;&#xA;&lt;p&gt;Il y a quelques jours j&amp;rsquo;ai du aller modifier mon fichier fstab sous debian et comme quasiment à chque fois les commandes me permettant de lister les partitions ainsi que les UUID de mes disques m&amp;rsquo;étaient sorties de la tête.&lt;/p&gt;&#xA;&lt;h2 id=&#34;les-commandes&#34;&gt;Les commandes&lt;/h2&gt;&#xA;&lt;p&gt;Voici donc une commande permettant de lister les partitions du système :&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;lsblk&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Et celle permettant d&amp;rsquo;obtenir une liste contenant entre autre informations les fameux UUID qui peuvent s&amp;rsquo;avérer utiles :&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
